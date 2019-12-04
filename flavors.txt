@@ -1,0 +1,4 @@
+1 vanila 50
+2 banana 60
+3 apple 70
+4 orange 80
