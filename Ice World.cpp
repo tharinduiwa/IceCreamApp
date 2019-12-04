@@ -26,7 +26,7 @@ int main()
 			break;
 		case 2: signup();	
 			break;
-		case 3:cout<<"Exited successfully!\n ";
+		case 3:cout<<"Exited successfully!!\n ";
 			break;
 		}
 		system("pause");
